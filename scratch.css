@@ -1,0 +1,28 @@
+.toprightpic{
+    top: 20px;
+    right: 100px;
+    position: absolute;
+}
+
+.container{
+    position: relative;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+.plot{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    font-style: italic;
+    text-align: center;
+    font-size: large;
+}
+
+.songs{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: block;
+}
